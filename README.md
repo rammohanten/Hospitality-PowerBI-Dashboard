@@ -37,7 +37,7 @@ Hospitality businesses generate large volumes of booking and revenue data but of
 Download the `.pbix` file and open it in Power BI Desktop. Use filters and visuals to explore performance by city, room type, property, and time period.
 
 ## Dashboard Preview
-![Dashboard Preview](Images/Hospitality dashboard.jpeg)
+
 
 **Author:** Ram Mohan
 
